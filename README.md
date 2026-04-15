@@ -17,7 +17,7 @@
 
 👉 **下载最新版：**
 
-➡️ https://github.com/sakura/Ultimate-GOD-Tool/releases
+➡️ [https://github.com/sakura/Ultimate-GOD-Tool/releases](https://github.com/zbq2035918303/Ultimate-GOD-Tool/releases)
 
 ---
 
