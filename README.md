@@ -15,9 +15,44 @@
 
 ## 📥 下载
 
-👉 **下载最新版：**
+👉 **无需安装，直接运行 EXE：**
 
-➡️ [https://github.com/sakura/Ultimate-GOD-Tool/releases](https://github.com/zbq2035918303/Ultimate-GOD-Tool/releases)
+➡️ https://github.com/zbq2035918303/Ultimate-GOD-Tool/releases
+
+---
+
+## 📸 软件界面
+<img width="100%" src="https://github.com/user-attachments/assets/e347a102-307a-4f25-b063-81bc5fb9a40b" />
+
+### 📊 磁盘分析（Treemap）
+<img width="100%" src="https://github.com/user-attachments/assets/430efc95-f616-495a-a587-f40126b45ea8" />
+
+### ⚡ C盘空间优化
+<img width="100%" src="https://github.com/user-attachments/assets/56e9d32a-ff93-428b-a234-738ce5babdb2" />
+
+### 🧹 一键清理
+<img width="100%" src="https://github.com/user-attachments/assets/e0ba0310-6011-48f2-ba37-fe23ad9fa83e" />
+
+**只展示前三个功能，还有两个，分别是扫描盘符和迁移文件（创建软连接）**
+
+
+---
+
+## 🔥 为什么用这个？
+
+✔ 比 WinDirStat 更直观（可点击钻取）  
+✔ 一键释放 C 盘空间（AI 推荐）  
+✔ 支持软件迁移（不破坏系统）  
+✔ 类似腾讯电脑管家体验（流畅 + 实时日志）  
+
+---
+
+## 🛡 安全说明
+
+- 本工具 **不会上传任何用户数据**
+- 所有操作 **仅在本地执行**
+- 开源透明，可自行查看源码
+- 迁移功能采用 **软链接保护机制（安全）**
 
 ---
 
@@ -66,6 +101,15 @@ Ultimate GOD Tool 是一个集成多种系统优化能力的工具：
 ---
 
 ## ⚙️ 使用方法
+
+### 👉 普通用户（推荐）
+1. 下载 Release 中的 `.exe`
+2. 右键 → 以管理员身份运行
+3. 点击功能按钮即可使用
+
+---
+
+### 👉 开发者
 
 ```bash
 pip install -r requirements.txt
