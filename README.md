@@ -109,8 +109,17 @@ Ultimate GOD Tool 是一个集成多种系统优化能力的工具：
 
 ---
 
-### 👉 开发者
+### 👨‍💻 开发者（源码运行）
 
 ```bash
+# 克隆项目
+git clone https://github.com/sakura/Ultimate-GOD-Tool.git
+
+# 进入目录
+cd Ultimate-GOD-Tool
+
+# 安装依赖
 pip install -r requirements.txt
+
+# 运行
 python main.py
