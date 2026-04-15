@@ -17,7 +17,7 @@
 
 👉 **无需安装，直接运行 EXE：**
 
-➡️ https://github.com/sakura/Ultimate-GOD-Tool/releases
+➡️ https://github.com/zbq2035918303/Ultimate-GOD-Tool/releases
 
 ---
 
@@ -113,7 +113,7 @@ Ultimate GOD Tool 是一个集成多种系统优化能力的工具：
 
 ```bash
 # 克隆项目
-git clone https://github.com/sakura/Ultimate-GOD-Tool.git
+git clone https://github.com/zbq2035918303/Ultimate-GOD-Tool.git
 
 # 进入目录
 cd Ultimate-GOD-Tool
