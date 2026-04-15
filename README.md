@@ -45,10 +45,10 @@
 <img width="100%" src="https://github.com/user-attachments/assets/430efc95-f616-495a-a587-f40126b45ea8" />
 
 ### ⚡ C盘空间优化
-<img width="100%" src="https://github.com/user-attachments/assets/56e9d32a-ff93-428b-a234-738ce5babdb2" />
+<img width="100%" src="https://github.com/user-attachments/assets/e0ba0310-6011-48f2-ba37-fe23ad9fa83e" />
 
 ### 🧹 一键清理
-<img width="100%" src="https://github.com/user-attachments/assets/e0ba0310-6011-48f2-ba37-fe23ad9fa83e" />
+<img width="100%" src="https://github.com/user-attachments/assets/56e9d32a-ff93-428b-a234-738ce5babdb2" />
 
 ---
 
